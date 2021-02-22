@@ -1,0 +1,14 @@
+.container-one{
+    background-color: aquamarine;
+}
+.container-two{
+    background-color: chartreuse;
+}
+.lecture{
+    height: 200px;
+    width: 300px;
+}        
+.logo{
+    height: 50px;
+    width: 50px;
+}
